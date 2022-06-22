@@ -1,5 +1,5 @@
 <?php
-  session_start();
+  session_start(); //여기다추가해야됨
   require "./dbConnect.php"; // 세션 주석추가
 ?>
 <!doctype html>
