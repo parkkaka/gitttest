@@ -1,6 +1,6 @@
 <?php
   session_start();
-  require "./dbConnect.php";
+  require "./dbConnect.php"; // 세션 주석추가
 ?>
 <!doctype html>
 <html lang="ko">
